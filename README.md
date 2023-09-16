@@ -1,5 +1,5 @@
 # Cadastro_PHP
-Página criada para fazer contato com SQL Server através do PHP - TESTE 123 MILHAS
+CRUD de PHP PURO com SQL Server - TESTE 123 MILHAS
 
 Este é um programa que faz contato com o SQL Server através da página cadastrar.php.
 É um simples programa que constitui numa página home que te direciona para o cadastro de usuários, atendente e setor, sakvando-os no banco.
